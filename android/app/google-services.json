@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46960079244",
+    "project_id": "fitnessnutritionapp-fd919",
+    "storage_bucket": "fitnessnutritionapp-fd919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46960079244:android:da396c8ef55b2eaa9226a9",
+        "android_client_info": {
+          "package_name": "com.example.fitness_nutrition_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUJwuXt1wi7T4mIBx-Syjy3dhTWOwKpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
